@@ -1,0 +1,17 @@
+
+body{
+    background-color: aqua;
+}
+
+div{
+    background-color: aquamarine;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+span{
+    font-weight: bold;
+    color: rgb(236, 9, 9);;
+}
